@@ -141,3 +141,15 @@ dist
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 .vite/
+
+# React Native - Android
+android/app/build/
+android/.gradle/
+android/local.properties
+
+# React Native - iOS
+ios/build/
+ios/Pods/
+
+# SQLite database
+notes_server.sqlite
