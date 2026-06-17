@@ -353,6 +353,6 @@ logs/
 
 <div align="center">
 
-Made with ❤️ using React Native
+Made with using React Native
 
 </div>
