@@ -50,13 +50,9 @@ The app features a clean multi-level navigation structure (Drawer → Stack → 
 |:-----------:|:----------:|:----------:|
 | ![Home Screen](screenshots/home.png) | ![Favourites](screenshots/favourites.png) | ![Cloud Sync](screenshots/cloud.png) |
 
-| Add Note | Edit Note | Settings |
+| Edit Note | Settings | Profile |
 |:--------:|:---------:|:--------:|
-| ![Add Note](screenshots/add_note.png) | ![Edit Note](screenshots/edit_note.png) | ![Settings](screenshots/settings.png) |
-
-| Profile | Drawer Menu | Delete Confirmation |
-|:-------:|:-----------:|:-------------------:|
-| ![Profile](screenshots/profile.png) | ![Drawer](screenshots/drawer.png) | ![Delete](screenshots/delete_confirm.png) |
+| ![Edit Note](screenshots/edit_note.png) | ![Settings](screenshots/settings.png) |  ![Profile](screenshots/profile.png) |
 
 ---
 
