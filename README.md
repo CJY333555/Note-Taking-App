@@ -39,13 +39,6 @@ The app features a clean multi-level navigation structure (Drawer → Stack → 
 ---
 
 ## 📱 Screenshots
-
-> 💡 **How to add your screenshots:**
-> 1. Create a folder called `screenshots/` in your repo root
-> 2. Take screenshots from your emulator or device
-> 3. Save them into that folder (e.g. `home.png`, `favourites.png`, etc.)
-> 4. They will automatically appear below
-
 | Home Screen | Favourites | Cloud Sync |
 |:-----------:|:----------:|:----------:|
 | ![Home Screen](screenshots/home.png) | ![Favourites](screenshots/favourites.png) | ![Cloud Sync](screenshots/cloud.png) |
